@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94795387.css",
+    "main.js": "/static/js/main.8abd567f.js",
+    "static/js/13.990cecc1.chunk.js": "/static/js/13.990cecc1.chunk.js",
+    "static/js/988.9024dc83.chunk.js": "/static/js/988.9024dc83.chunk.js",
+    "static/js/109.436a1296.chunk.js": "/static/js/109.436a1296.chunk.js",
+    "static/js/888.7f6fd952.chunk.js": "/static/js/888.7f6fd952.chunk.js",
+    "static/js/453.edc42318.chunk.js": "/static/js/453.edc42318.chunk.js",
+    "static/js/70.632fe79b.chunk.js": "/static/js/70.632fe79b.chunk.js",
+    "static/js/727.e9339f37.chunk.js": "/static/js/727.e9339f37.chunk.js",
+    "static/media/NotoSansDisplay-Light.ttf": "/static/media/NotoSansDisplay-Light.62b7a0c2713764e8267f.ttf",
+    "static/media/NotoSansDisplay-SemiBold.ttf": "/static/media/NotoSansDisplay-SemiBold.44b366aa90eb880a9256.ttf",
+    "static/media/NotoSansDisplay-Thin.ttf": "/static/media/NotoSansDisplay-Thin.6d726fa037e8ab99893d.ttf",
+    "static/media/NotoSansDisplay-Medium.ttf": "/static/media/NotoSansDisplay-Medium.7e4594947acee9a4ebf2.ttf",
+    "static/media/NotoSansDisplay-Bold.ttf": "/static/media/NotoSansDisplay-Bold.acc42b7518dd29dbfbc8.ttf",
+    "static/media/NotoSansDisplay-Regular.ttf": "/static/media/NotoSansDisplay-Regular.a2b811807e1076158841.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Montserrat-Thin.ttf": "/static/media/Montserrat-Thin.9a7aece9cfe235bc0920.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.94795387.css.map": "/static/css/main.94795387.css.map",
+    "main.8abd567f.js.map": "/static/js/main.8abd567f.js.map",
+    "13.990cecc1.chunk.js.map": "/static/js/13.990cecc1.chunk.js.map",
+    "988.9024dc83.chunk.js.map": "/static/js/988.9024dc83.chunk.js.map",
+    "109.436a1296.chunk.js.map": "/static/js/109.436a1296.chunk.js.map",
+    "888.7f6fd952.chunk.js.map": "/static/js/888.7f6fd952.chunk.js.map",
+    "453.edc42318.chunk.js.map": "/static/js/453.edc42318.chunk.js.map",
+    "70.632fe79b.chunk.js.map": "/static/js/70.632fe79b.chunk.js.map",
+    "727.e9339f37.chunk.js.map": "/static/js/727.e9339f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94795387.css",
+    "static/js/main.8abd567f.js"
+  ]
+}
