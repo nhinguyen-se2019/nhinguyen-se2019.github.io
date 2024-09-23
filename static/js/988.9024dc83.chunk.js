@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkself_app=self.webpackChunkself_app||[]).push([[988],{7988:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});a(5043);var l=a(579);const c=()=>(0,l.jsx)("div",{className:"page",children:(0,l.jsx)("h1",{children:"Hello ContactScreen"})})}}]);
+//# sourceMappingURL=988.9024dc83.chunk.js.map
